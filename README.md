@@ -27,3 +27,8 @@ A platform connecting catering service providers with people seeking part-time c
 - [LinkedIn](https://www.linkedin.com/in/shaik-sohan-ahammed-b84663363/)
 - [GitHub](https://github.com/shaiksohan)
 - Email: shaiksohan187@gmail.com
+## 📄 My Resume
+
+[![View Resume](https://img.shields.io/badge/View_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shaiksohan/resume/blob/main/Shaik_Sohan_Ahammed_Resume.pdf)
+
+[⬇️ Download My Resume](https://github.com/shaiksohan/resume/raw/refs/heads/main/Shaik_Sohan_Ahammed_Resume.pdf)
