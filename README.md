@@ -1,34 +1,42 @@
-# Hi, I'm Shaik Sohan Ahammed 👋
+Hi, I’m Shaik Sohan Ahammed 👋
 
-🎓 B.Tech CSE Student | IoT & Cybersecurity  
+🎓 B.Tech CSE Student at Annamacharya University
+📚 Specialization: IoT and Cybersecurity | CGPA: 9.1/10
 💻 Interested in Software Development and Data Engineering
 
-## 📄 My Resume
+📄 My Resume
 
-[![Resume](https://img.shields.io/badge/View-My_Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shaiksohan/resume/blob/main/Shaik_Sohan_Ahammed_Resume.pdf)
+View My Resume (PDF)
 
-## 🚀 Featured Project
+⬇️ Download My Resume
 
-### CaterConnect
-A platform connecting catering service providers with people seeking part-time catering work.
+🚀 Featured Project
 
-- 🌐 [Live Website](https://cater-connect-lovat.vercel.app/)
-- 💻 [GitHub Repository](https://github.com/shaiksohan/CaterConnect)
+CaterConnect — Catering Services & Part-Time Work Platform
 
-## 🛠️ Technical Skills
+A web platform designed to connect catering service providers with people seeking part-time catering work.
 
-- Python, Java, C, JavaScript
-- HTML, CSS
-- SQL, MySQL
-- Git, GitHub, VS Code
+* 🌐 Live Website
+* 💻 GitHub Repository
 
-## 🔗 Connect With Me
+Technologies: React, Node.js, Express.js, MongoDB, Git, Vercel
 
-- [LinkedIn](https://www.linkedin.com/in/shaik-sohan-ahammed-b84663363/)
-- [GitHub](https://github.com/shaiksohan)
-- Email: shaiksohan187@gmail.com
-## 📄 My Resume
+🛠️ Technical Skills
 
-[![View Resume](https://img.shields.io/badge/View_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shaiksohan/resume/blob/main/Shaik_Sohan_Ahammed_Resume.pdf)
+* Programming: Python, Java, C, JavaScript (Basic)
+* Web Development: HTML, CSS (Basic); MERN stack project experience
+* Databases: SQL, MySQL (Basic)
+* Cybersecurity: Kali Linux, Linux commands, computer networking (Basic)
+* Tools: Git, GitHub, VS Code, ChatGPT, Google AI Studio
 
-[⬇️ Download My Resume](https://github.com/shaiksohan/resume/raw/refs/heads/main/Shaik_Sohan_Ahammed_Resume.pdf)
+📜 Certifications
+
+* MERN Stack Engineer Certification — Blackbucks Education Pvt. Ltd. (2026)
+* Generative AI — NASSCOM / FutureSkills Prime
+* Java (Basic) — HackerRank
+
+🔗 Connect With Me
+
+* LinkedIn
+* GitHub
+* Email: shaiksohan187@gmail.com
